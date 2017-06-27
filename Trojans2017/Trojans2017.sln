@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trojans2017", "Trojans2017.vcproj", "{F78D7337-40C3-4A5C-B6BE-ECD8CB21CE75}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Server", "..\Server\Server.vcproj", "{BE024539-FB2F-49F0-A01B-C7D2013FD37B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78D7337-40C3-4A5C-B6BE-ECD8CB21CE75}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F78D7337-40C3-4A5C-B6BE-ECD8CB21CE75}.Debug|Win32.Build.0 = Debug|Win32
+		{F78D7337-40C3-4A5C-B6BE-ECD8CB21CE75}.Release|Win32.ActiveCfg = Release|Win32
+		{F78D7337-40C3-4A5C-B6BE-ECD8CB21CE75}.Release|Win32.Build.0 = Release|Win32
+		{BE024539-FB2F-49F0-A01B-C7D2013FD37B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE024539-FB2F-49F0-A01B-C7D2013FD37B}.Debug|Win32.Build.0 = Debug|Win32
+		{BE024539-FB2F-49F0-A01B-C7D2013FD37B}.Release|Win32.ActiveCfg = Release|Win32
+		{BE024539-FB2F-49F0-A01B-C7D2013FD37B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
